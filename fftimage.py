@@ -12,7 +12,7 @@ import multiprocessing as mp
 
 import cft
 
-pic= Image.open("9nsgatf9wga81.PNG").convert('RGB')
+pic= Image.open("mal2.jpg").convert('RGB')
 #pic= Image.open("mal2.jpg").convert('RGB')
 
 print(np.array(pic.getdata()).shape)
